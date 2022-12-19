@@ -1,4 +1,4 @@
-# General Laravel Lib Template
+# General Laravel Library Template
 
 ## Descrição
 Modelo padrão para projetos de bibliotecas Laravel
@@ -9,7 +9,7 @@ Para instalar esta dependência, é necessário ter o Composer disponível em su
 Após ter instalado o composer, execute o seguinte comando para instalar a dependência no seu projeto Laravel:
 
 ```
-composer require felipemenezesdm/general-laravel-lib-template
+composer require felipemenezesdm/general-laravel-library-template
 ```
 
 ## Links úteis

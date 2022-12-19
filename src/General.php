@@ -1,6 +1,6 @@
 <?php
 
-namespace FeliepeMenezesDM\GeneralLaravelLibTemplate;
+namespace FeliepeMenezesDM\GeneralLaravelLibraryTemplate;
 
 class General
 {
