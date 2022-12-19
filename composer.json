@@ -1,10 +1,10 @@
 {
-  "name": "felipemenezesdm/general-laravel-lib-template",
+  "name": "felipemenezesdm/general-laravel-library-template",
   "description": "Modelo para criação de bibliotecas para Laravel",
   "type": "library",
   "autoload": {
     "psr-4": {
-      "FelipeMenezesDM\\LaravelCommons\\": "src/"
+      "FelipeMenezesDM\\GeneralLaravelLibraryTemplate\\": "src/"
     }
   },
   "minimum-stability": "stable",
